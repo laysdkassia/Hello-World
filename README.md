@@ -1,2 +1,4 @@
 # Hello World
- Meu primeiro projeto do curso de Git e GitHub
+ Meu primeiro repositorio do curso de Git e GitHub
+
+Repositorio criado durante as aulas do curso em video com professor Guanabara. 
